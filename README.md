@@ -1,9 +1,9 @@
 # Softwaretechnik_MBock
 
 ## Autor
-Marvin Bock
+- Marvin Bock
 ## Matrikelnummer
-xxx3340
+- xxx3340
 
 ## 01_Aufgabe-Einführung
 - Pfad: `Softwaretechnik_MBock/01_Aufgabe-Einführung`
