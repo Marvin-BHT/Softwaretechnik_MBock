@@ -14,3 +14,7 @@
 - Pfad: `Softwaretechnik_MBock/02_Aufgabe-GIT`
 - Die Datei GIT-Neu wurde zum Testen von GIT genutzt. Alle Bashes befinden sich in der Bashes.md Datei. Es wurden branches feature1 und feature2 genutzt und am Ende gemerget.
 - Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/main/02_Aufgabe-GIT
+## 03_Aufgabe-Vibe&KICoding
+- Pfad: `Softwaretechnik_MBock/03_Aufgabe-Vibe&KICoding`
+- Aufgabe A und B wurde in Kombination mit Lovable gelöst. Es befindet sich eine PDF im Unterverzeichnis A&B
+-- Pfad `Softwaretechnik_MBock/03_Aufgabe-Vibe&KICoding/A&B`
