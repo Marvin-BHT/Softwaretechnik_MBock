@@ -32,3 +32,8 @@
 - Aufgabe C wurde mit Claude gelöst. Es befinden sich die Mission.md, Roadmap.md und die TechStack.md im Unterverzeichnis "C"
   - Pfad `Softwaretechnik_MBock/04_Aufgabe-Requirements/C`
   - Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/6ef568df7ab484c0cda504ef1332a4bc873b06a2/04_Aufgabe-Requirements/C
+
+## 05_Aufgabe-Analyse
+- Pfad: `Softwaretechnik_MBock/05_Aufgabe-Analyse`
+- Hier befindet sich die PDF zur Aufgabe des Kapitels Analyse.
+- Link: 
