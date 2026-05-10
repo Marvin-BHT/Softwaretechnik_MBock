@@ -36,4 +36,4 @@
 ## 05_Aufgabe-Analyse
 - Pfad: `Softwaretechnik_MBock/05_Aufgabe-Analyse`
 - Hier befindet sich die PDF zur Aufgabe des Kapitels Analyse.
-- Link: 
+- Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/cc69db64934ef557fd0551f5bbc241c6fd0878d7/05_Aufgabe-Analyse
