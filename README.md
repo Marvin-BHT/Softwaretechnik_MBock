@@ -18,20 +18,20 @@
 ## 03_Aufgabe-Vibe&KICoding
 - Pfad: `Softwaretechnik_MBock/03_Aufgabe-Vibe&KICoding`
 - Aufgabe A und B wurde in Kombination mit Lovable gelöst. Es befindet sich eine PDF im Unterverzeichnis A&B
-  - Pfad `Softwaretechnik_MBock/03_Aufgabe-Vibe&KICoding/A&B`
+  - Pfad: `Softwaretechnik_MBock/03_Aufgabe-Vibe&KICoding/A&B`
   - Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/main/03_Aufgabe-Vibe%26KICoding/A%26B
 - Aufgabe C folgt.
 
 ## 04_Aufgabe-Requirements
 - Pfad: `Softwaretechnik_MBock/04_Aufgabe-Requirements`
 - Aufgabe A wurde mit Excel gelöst. Es befindet sich eine PDF im Unterverzeichnis "A"
-  - Pfad `Softwaretechnik_MBock/04_Aufgabe-Requirements/A`
+  - Pfad: `Softwaretechnik_MBock/04_Aufgabe-Requirements/A`
   - Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/6ef568df7ab484c0cda504ef1332a4bc873b06a2/04_Aufgabe-Requirements/A
 - Aufgabe B wurde mit Jira gelöst. Es befindet sich ein Screenshot im Unterverzeichnis "B"
-  - Pfad `Softwaretechnik_MBock/04_Aufgabe-Requirements/B`
+  - Pfad: `Softwaretechnik_MBock/04_Aufgabe-Requirements/B`
   - Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/6ef568df7ab484c0cda504ef1332a4bc873b06a2/04_Aufgabe-Requirements/B
 - Aufgabe C wurde mit Claude gelöst. Es befinden sich die Mission.md, Roadmap.md und die TechStack.md im Unterverzeichnis "C"
-  - Pfad `Softwaretechnik_MBock/04_Aufgabe-Requirements/C`
+  - Pfad: `Softwaretechnik_MBock/04_Aufgabe-Requirements/C`
   - Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/6ef568df7ab484c0cda504ef1332a4bc873b06a2/04_Aufgabe-Requirements/C
 
 ## 05_Aufgabe-Analyse
