@@ -38,3 +38,8 @@
 - Pfad: `Softwaretechnik_MBock/05_Aufgabe-Analyse`
 - Hier befindet sich die PDF zur Aufgabe des Kapitels Analyse.
 - Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/cc69db64934ef557fd0551f5bbc241c6fd0878d7/05_Aufgabe-Analyse
+
+## 06_Aufgabe-DomainDrivenDesign
+- Pfad: `Softwaretechnik_MBock/06_Aufgabe-DomainDrivenDesign`
+- Hier befinden sich die PDF's zur Aufgabe des Kapitels Domain Driven Design ehemals OOD. Die Aufgabe wurde Hauptsächlich in MIRO gelöst. Es befinden sich Screenshots in den PDF's.
+- Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/cc69db64934ef557fd0551f5bbc241c6fd0878d7/05_Aufgabe-Analyse
