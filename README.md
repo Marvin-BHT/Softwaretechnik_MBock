@@ -47,4 +47,4 @@
 ## 07_Aufgabe-UML
 - Pfad: `Softwaretechnik_MBock/07_Aufgabe-UML`
 - Hier befindet sich die PDF zur Aufgabe des Kapitels UML.
-- Link: 
+- Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/4770a37a6e50e6fc9cb14e629a7c45b1c10f4976/07_Aufgabe-UML
