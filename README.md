@@ -43,3 +43,8 @@
 - Pfad: `Softwaretechnik_MBock/06_Aufgabe-DomainDrivenDesign`
 - Hier befinden sich die PDF's zur Aufgabe des Kapitels Domain Driven Design ehemals OOD. Die Aufgabe wurde Hauptsächlich in MIRO gelöst. Es befinden sich Screenshots in den PDF's.
 - Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/5981343591afcd75ac44495740d6c13990ba4b0a/06_Aufgabe-DomainDrivenDesign
+
+## 07_Aufgabe-UML
+- Pfad: `Softwaretechnik_MBock/07_Aufgabe-UML`
+- Hier befindet sich die PDF zur Aufgabe des Kapitels UML.
+- Link: 
