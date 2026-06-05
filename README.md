@@ -52,4 +52,4 @@
 ## 08_Aufgabe-Vorgehensmodelle
 - Pfad: `Softwaretechnik_MBock/08_Aufgabe-Vorgehensmodelle`
 - Hier befindet sich die PDF zur Aufgabe des Kapitels Vorgehensmodelle.
-- Link: 
+- Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/8b4bfb3632362e7e287794aebd91de43bd081165/08_Aufgabe-Vorgehensmodelle
