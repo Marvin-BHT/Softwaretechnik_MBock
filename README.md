@@ -48,3 +48,8 @@
 - Pfad: `Softwaretechnik_MBock/07_Aufgabe-UML`
 - Hier befindet sich die PDF zur Aufgabe des Kapitels UML.
 - Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/4770a37a6e50e6fc9cb14e629a7c45b1c10f4976/07_Aufgabe-UML
+
+## 08_Aufgabe-Vorgehensmodelle
+- Pfad: `Softwaretechnik_MBock/08_Aufgabe-Vorgehensmodelle`
+- Hier befindet sich die PDF zur Aufgabe des Kapitels Vorgehensmodelle.
+- Link: 
