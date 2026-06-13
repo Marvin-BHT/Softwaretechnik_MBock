@@ -53,3 +53,8 @@
 - Pfad: `Softwaretechnik_MBock/08_Aufgabe-Vorgehensmodelle`
 - Hier befindet sich die PDF zur Aufgabe des Kapitels Vorgehensmodelle.
 - Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/8b4bfb3632362e7e287794aebd91de43bd081165/08_Aufgabe-Vorgehensmodelle
+
+## 09_Aufgabe-Refactoring
+- Pfad: `Softwaretechnik_MBock/09_Aufgabe-Refactoring`
+- Hier befindet sich die PDF zur Aufgabe des Kapitels Refactoring und die Java/Class Dateien der bearbeiteten Aufgabe.
+- Link:
