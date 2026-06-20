@@ -1,0 +1,4 @@
+Mojito; Zuckersirup, 1.0, false; Limettensaft, 2.0, false; weißer Rum, 5.0, true; Sodawasser, 3.0, false
+Mai Tai; Zuckersirup, 1.0, false; Mandelsirup, 1.0, false; Limettensaft, 2.0, false; brauner Rum, 6.0, true; Orangenlikör, 2.0, false; Ananassaft, 5.0, false
+Hurricane; Limettensaft, 2.0, false; weißer Rum, 3.0, true; brauner Rum, 1.0, true; Orangensaft, 5.0, false; Ananassaft, 5.0, false; Maracujasirup, 1.0, false
+Virgin Mojito; Zuckersirup, 2.0, false; Limettensaft, 3.0, false; Sodawasser, 6.0, false

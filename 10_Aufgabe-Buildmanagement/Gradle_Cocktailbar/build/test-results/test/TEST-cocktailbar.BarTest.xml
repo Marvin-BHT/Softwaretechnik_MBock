@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cocktailbar.BarTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-06-20T10:47:07.732Z" hostname="MAJOR" time="0.027">
+  <properties/>
+  <testcase name="testFiltereRezepte_findetAlkohol()" classname="cocktailbar.BarTest" time="0.007"/>
+  <testcase name="testGetCocktailNamenMitMaxZutaten()" classname="cocktailbar.BarTest" time="0.002"/>
+  <testcase name="testSpeichernUndLaden()" classname="cocktailbar.BarTest" time="0.002"/>
+  <testcase name="testFiltereRezepte_findetAlkoholfreie()" classname="cocktailbar.BarTest" time="0.0"/>
+  <testcase name="testAddCocktail()" classname="cocktailbar.BarTest" time="0.001"/>
+  <testcase name="testGetAlkoholfreieCocktailsMitStreamApi()" classname="cocktailbar.BarTest" time="0.001"/>
+  <system-out><![CDATA[[Mojito, Virgin Mojito]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
