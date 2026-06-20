@@ -57,4 +57,9 @@
 ## 09_Aufgabe-Refactoring
 - Pfad: `Softwaretechnik_MBock/09_Aufgabe-Refactoring`
 - Hier befindet sich die PDF zur Aufgabe des Kapitels Refactoring und die Java/Class Dateien der bearbeiteten Aufgabe.
-- Link:
+- Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/3279a41c55488defc1a9bc8a519354f1a39db8ac/09_Aufgabe-Refactoring
+
+- ## 10_Aufgabe-Buildmanagement
+- Pfad: `Softwaretechnik_MBock/10_Aufgabe-Buildmanagement`
+- Hier befindet sich die PDF zur Aufgabe des Kapitels Refactoring und die Java/Class Dateien der bearbeiteten Aufgabe.
+- Link: 
