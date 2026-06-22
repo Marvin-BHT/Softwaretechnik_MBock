@@ -70,4 +70,17 @@ class ShoppingCart_Test {
 		
 		assertThrows(IllegalArgumentException.class,() -> cart.addItem("EinItem", 0));		
 	}	
+	
+	@Test
+	void test_remove_item_Mutation() {
+		ShoppingCart cart = new ShoppingCart();
+		cart.addItem("VierItem", 4);
+		cart.remove_item("VierItem");
+		
+		assertFalse(cart.warenkorb.containsKey("VierItem"));
+		assertFalse(cart.warenmenge.containsKey("VierItem"));
+		
+		System.out.println("Test remove Mutation" + cart.warenkorb);
+		System.out.println("Test remove Mutation" + cart.warenmenge);
+	}
 }
