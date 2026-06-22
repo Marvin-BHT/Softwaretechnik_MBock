@@ -33,4 +33,9 @@ class ShoppingCart_Test {
 		assertEquals(10, cart.getTotal());
 	}
 	
+	@Test
+	void test_get_quantity_of_item() {
+		ShoppingCart cart = new ShoppingCart();
+		assertEquals(0, cart.get_quantity());
+	}
 }
