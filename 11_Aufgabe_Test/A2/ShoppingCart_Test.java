@@ -16,10 +16,21 @@ class ShoppingCart_Test {
 	void test_add_item_increases_total() {
 		ShoppingCart cart = new ShoppingCart();
 		cart.addItem("EinItem", 1);
-		cart.addItem("ZweiItem", 2);
 		System.out.println(cart.warenkorb);
 		
-		assertEquals(3, cart.getTotal());
+		assertEquals(1, cart.getTotal());
+	}
+	
+	@Test
+	void test_add_multiple_items_sums_total() {
+		ShoppingCart cart = new ShoppingCart();
+		cart.addItem("EinItem", 1);
+		cart.addItem("ZweiItem", 2);
+		cart.addItem("DreiItem", 3);
+		cart.addItem("VierItem", 4);
+		System.out.println(cart.warenkorb);
+		
+		assertEquals(10, cart.getTotal());
 	}
 	
 }
