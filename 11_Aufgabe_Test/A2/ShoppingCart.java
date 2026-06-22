@@ -18,6 +18,10 @@ public class ShoppingCart {
 	}
 	
 	public void addItem(String name, int preis) {
+		if (preis <=0) {
+			throw new IllegalArgumentException("Der Preis muss größer 0 sein");
+		}
+		
 		warenkorb.put(name, preis);
 		
 		if (warenmenge.containsKey(name)) {

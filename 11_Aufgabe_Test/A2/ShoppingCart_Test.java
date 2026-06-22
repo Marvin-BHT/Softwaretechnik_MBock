@@ -64,5 +64,10 @@ class ShoppingCart_Test {
 		System.out.println("Test remove" + cart.warenmenge);
 	}
 	
-	
+	@Test
+	void test_add_item_falscher_preis() {
+		ShoppingCart cart = new ShoppingCart();
+		
+		assertThrows(IllegalArgumentException.class,() -> cart.addItem("EinItem", 0));		
+	}	
 }
