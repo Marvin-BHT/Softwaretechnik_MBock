@@ -29,8 +29,8 @@ class ShoppingCart_Test {
 		cart.addItem("ZweiItem", 2);
 		cart.addItem("DreiItem", 3);
 		cart.addItem("VierItem", 4);
-		System.out.println(cart.warenkorb);
-		System.out.println(cart.warenmenge);
+		System.out.println("Test addMulti" + cart.warenkorb);
+		System.out.println("Test addMulti" + cart.warenmenge);
 		
 		assertEquals(11, cart.getTotal());
 	}
@@ -59,6 +59,9 @@ class ShoppingCart_Test {
 		
 		assertEquals(1, cart.get_quantity("EinItem"));
 		assertEquals(10, cart.getTotal());
+		
+		System.out.println("Test remove" + cart.warenkorb);
+		System.out.println("Test remove" + cart.warenmenge);
 	}
 	
 	

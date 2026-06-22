@@ -30,4 +30,19 @@ public class ShoppingCart {
 	public int get_quantity(String name) {
 		return warenmenge.getOrDefault(name, 0);
 	}
+	
+	public void remove_item(String name) {
+	
+		int menge = warenmenge.get(name);
+		
+		if (menge > 1) {
+			warenmenge.put(name, menge - 1);
+		} else {
+			warenmenge.remove(name);
+			warenkorb.remove(name);
+		}
+		
+	}
+	
+
 }
