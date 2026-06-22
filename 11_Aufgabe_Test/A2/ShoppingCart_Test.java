@@ -45,4 +45,21 @@ class ShoppingCart_Test {
 		cart.addItem("VierItem", 4);
 		assertEquals(2, cart.get_quantity("EinItem"));
 	}
+	
+	@Test
+	void test_remove_item() {
+		ShoppingCart cart = new ShoppingCart();
+		cart.addItem("EinItem", 1);
+		cart.addItem("EinItem", 1);
+		cart.addItem("ZweiItem", 2);
+		cart.addItem("DreiItem", 3);
+		cart.addItem("VierItem", 4);
+		
+		cart.remove_item("EinItem");
+		
+		assertEquals(1, cart.get_quantity("EinItem"));
+		assertEquals(10, cart.getTotal());
+	}
+	
+	
 }
