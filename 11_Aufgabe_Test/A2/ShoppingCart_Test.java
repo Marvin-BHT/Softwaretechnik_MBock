@@ -15,8 +15,11 @@ class ShoppingCart_Test {
 	@Test
 	void test_add_item_increases_total() {
 		ShoppingCart cart = new ShoppingCart();
-		cart.addItem("EinItem", 3);
+		cart.addItem("EinItem", 1);
+		cart.addItem("ZweiItem", 2);
+		System.out.println(cart.warenkorb);
 		
 		assertEquals(3, cart.getTotal());
 	}
+	
 }
