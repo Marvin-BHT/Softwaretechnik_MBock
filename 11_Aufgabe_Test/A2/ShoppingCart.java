@@ -10,8 +10,9 @@ public class ShoppingCart {
 	
 	public int getTotal() {
 		int gesamt = 0;
-		for (int preis: warenkorb.values()) {
-			gesamt += preis;
+		
+		for (String name: warenkorb.keySet()) {
+			gesamt += warenkorb.get(name)* warenmenge.get(name);
 		}
 		return gesamt;
 	}

@@ -26,17 +26,23 @@ class ShoppingCart_Test {
 		ShoppingCart cart = new ShoppingCart();
 		cart.addItem("EinItem", 1);
 		cart.addItem("EinItem", 1);
+		cart.addItem("ZweiItem", 2);
 		cart.addItem("DreiItem", 3);
 		cart.addItem("VierItem", 4);
 		System.out.println(cart.warenkorb);
 		System.out.println(cart.warenmenge);
 		
-		assertEquals(9, cart.getTotal());
+		assertEquals(11, cart.getTotal());
 	}
 	
 	@Test
 	void test_get_quantity_of_item() {
 		ShoppingCart cart = new ShoppingCart();
-		assertEquals(0, cart.get_quantity("EinItem"));
+		cart.addItem("EinItem", 1);
+		cart.addItem("EinItem", 1);
+		cart.addItem("ZweiItem", 2);
+		cart.addItem("DreiItem", 3);
+		cart.addItem("VierItem", 4);
+		assertEquals(2, cart.get_quantity("EinItem"));
 	}
 }
