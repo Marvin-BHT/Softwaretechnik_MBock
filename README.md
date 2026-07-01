@@ -67,9 +67,9 @@
 ## 11_Aufgabe-Test
 - Pfad: `Softwaretechnik_MBock/11_Aufgabe-Test`
 - Hier befindet sich eine PDF zur Erläuterung der Vorgehensweise, sowie in den Ordner A1 und A2_A4 die erarbeiteten Java Dateien. A2 und A4 wurden mit dem selben Code abgearbeitet.
-- Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/a0f906dc6f1cfd1f4043daea9a63cbf41e5761ec/11_Aufgabe_Test
+- Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/a0f906dc6f1cfd1f4043daea9a63cbf41e5761ec/11_Aufgabe-Test
 
 ## 12_Aufgabe-Metriken
 - Pfad: `Softwaretechnik_MBock/12_Aufgabe-Metriken`
 - Hier befindet sich die PDF zur Aufgabe des Kapitels Metriken.
-- Link: 
+- Link: https://github.com/Marvin-BHT/Softwaretechnik_MBock/tree/2c9ea2ce6c2b0124b2a9b01c54a843b4db2706f7/12_Aufgabe-Metriken
